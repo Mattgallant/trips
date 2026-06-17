@@ -6,7 +6,7 @@
 *Fly out Aug 4 · land Geneva Aug 5 · use Aug 5–6 to adjust and prepare.*
 
 **TMB direction:** Counter-clockwise · **Rest day:** Aug 10 in Courmayeur  
-**Total hiking:** ~104 mi · ~35,300 ft gain
+**Total hiking (AllTrails linked routes):** ~105 mi · ~36,950 ft gain
 
 ---
 
@@ -112,14 +112,13 @@
 
 ### Tour du Mont Blanc
 
-*Full route collection: [AllTrails — TMB (your list · 9 items)](https://www.alltrails.com/lists/tmb-f1a7fe6) · [map view](https://www.alltrails.com/explore/list/tmb-f1a7fe6)*
+*Your list: [AllTrails — TMB (9 items)](https://www.alltrails.com/lists/tmb-f1a7fe6) · [map view](https://www.alltrails.com/explore/list/tmb-f1a7fe6)*
 
 #### Day 1 — Fri, Aug 7 · Les Houches → Refuge de la Balme
 
 | | |
 | - | - |
-| **Distance** | 12 mi · ↑ 4,000 ft |
-| **Map** | [Les Houches → Balme via Mont Truc](https://www.alltrails.com/trail/france/haute-savoie/les-houches-bellevue-refuge-de-la-balme-via-mont-truc) |
+| **Distance** | **11.8 mi · ↑ 4,101 ft** *(AllTrails)* |
 
 **Lodging:** [Refuge de la Balme](https://www.refugedelabalme.com/) · conf **831731** · Aug 7–8 · 2× Miage Dormitory (6-bed) half-board  
 **Payment:** Partially paid · **€128.88 paid** online · **€57.60 remaining — cash only at refuge**
@@ -138,8 +137,7 @@
 
 | | |
 | - | - |
-| **Distance** | 11.2 mi · ↑ 4,200 ft |
-| **Map** | [Balme → Les Chapieux (TMB seg 2)](https://www.alltrails.com/trail/france/haute-savoie/tour-du-mont-blanc-etape-2-les-contamines-les-chapieux) |
+| **Distance** | **11.6 mi · ↑ 4,484 ft** *(AllTrails)* |
 
 **Lodging:** [Angival Hôtel](https://angival.com/en/hotel-room-bourg-saint-maurice/) · 90 rue Jean Moulin · conf **2-469134-507** · Aug 8–9 · Double room  
 90, rue Jean Moulin
@@ -155,8 +153,7 @@
 
 | | |
 | - | - |
-| **Distance** | 20 mi · ↑ 4,800 ft |
-| **Map** | [Bourg-Saint-Maurice → Courmayeur (UTMB seg 2)](https://www.alltrails.com/trail/france/savoie/ultra-trail-du-mont-blanc-utmb-etape-2-bourg-st-maurice-courmayeur) |
+| **Distance** | **15.4 mi · ↑ 5,147 ft** *(AllTrails)* |
 
 **Lodging:** [Courmayeur Airbnb](https://www.airbnb.com/rooms/655720715150014945) · Aug 9–11  
 **Payment:** **Paid in full**
@@ -179,8 +176,7 @@
 
 | | |
 | - | - |
-| **Distance** | 8.6 mi · ↑ 3,000 ft |
-| **Map** | [Courmayeur → Val Ferret (→ Elena)](https://www.alltrails.com/trail/italy/aosta-valley/tour-del-monte-bianco-courmayeur-chalet-val-ferret-variante-tappa-5-6) |
+| **Distance** | **10.6 mi · ↑ 4,120 ft** *(AllTrails)* |
 
 **Lodging:** Rifugio Elena · Aug 11–12 · 2× bunk bed · half-board (dinner + breakfast + shower)  
 **Payment:** **Confirmed** · **€140** · pay at check-in · deposit details TBD (notified before season)
@@ -196,8 +192,7 @@
 
 | | |
 | - | - |
-| **Distance** | 8.5 mi · ↑ 3,000 ft |
-| **Map** | [Elena → La Fouly (Arnuova)](https://www.alltrails.com/trail/italy/aosta-valley/arnuova-la-fouly) |
+| **Distance** | **9.1 mi · ↑ 2,723 ft** *(AllTrails)* |
 
 **Lodging:** [Auberge des Glaciers](https://www.montourdumontblanc.com/fr/refuges/auberge-des-glaciers-120842) · conf **832135** · Aug 12–13 · 2× 8-bed dorm half-board  
 **Payment:** Partially paid · **CHF 97.20 paid** (50% deposit) · **CHF 104.40 balance due** at check-in
@@ -207,12 +202,11 @@
 
 ---
 
-#### Day 6 — Thu, Aug 13 · La Fouly → Champex-Lac
+#### Day 6 — Thu, Aug 13 · La Fouly → Relais d'Arpette
 
 | | |
 | - | - |
-| **Distance** | 8 mi · ↑ 4,000 ft |
-| **Map** | [La Fouly → Relais d'Arpette](https://www.alltrails.com/trail/switzerland/valais/la-fouly-arpette) |
+| **Distance** | **10.9 mi · ↑ 2,680 ft** *(AllTrails)* |
 
 **Lodging:** [Relais d'Arpette](https://www.montourdumontblanc.com/en/refuges/relais-d-arpette) · conf **832263** · Aug 13–14 · 2× dorm half-board  
 **Payment:** **Paid in full** · **€195.05** online *(CHF 170 lodging + CHF 4.80 tax + €9.28 fee)*
@@ -225,8 +219,7 @@
 
 | | |
 | - | - |
-| **Distance** | 9.5 mi · ↑ 4,500 ft |
-| **Map** | [Relais d'Arpette → Trient (Fenêtre d'Arpette)](https://www.alltrails.com/trail/switzerland/valais/champex-lac-fenetre-d-arpette-trient) · [alt — Bovine](https://www.alltrails.com/trail/switzerland/valais/tour-du-mont-blanc-etape-8-champex-lac-rifuge-le-peuty-variante) |
+| **Distance** | **9.2 mi · ↑ 3,887 ft** *(AllTrails)* |
 
 **Lodging:** Auberge du Mont Blanc · Aug 14–15  
 **Payment:** **Paid in full**
@@ -240,8 +233,7 @@
 
 | | |
 | - | - |
-| **Distance** | 10 mi · ↑ 3,800 ft |
-| **Map** | [Trient → Argentière (TMB seg 9)](https://www.alltrails.com/trail/switzerland/valais/trient-argentiere) |
+| **Distance** | **9.5 mi · ↑ 3,779 ft** *(AllTrails)* |
 
 **Lodging:** Hôtel de la Couronne · conf **013633** · Aug 15–16 · Duo room · breakfast included  
 **Payment:** **Confirmed** · **€194 due at property** · **€3.40 city tax** at departure (€1.70/adult)
@@ -254,11 +246,12 @@
 
 | | |
 | - | - |
-| **Distance** | 16.5 mi · ↑ 4,000 ft |
-| **Map** | [Argentière → Flégère (TMB seg 10)](https://www.alltrails.com/trail/france/haute-savoie/tour-du-mont-blanc-etape-10-tre-le-champ-refuge-flegere) · [Flégère → Les Houches (TMB seg 11)](https://www.alltrails.com/trail/france/haute-savoie/tour-du-mont-blanc-etape-11-refuge-flegere-les-houches-chamonix) |
+| **Distance** | **16.9 mi · ↑ 6,029 ft** *(AllTrails · seg 10 + 11)* |
 
 **Lodging:** Les Trésoms Lake & Spa Resort · check-in Sun Aug 16 from **4:00 PM** · check-out Wed Aug 19 before **11:00 AM**  
 **Payment:** **Paid in full** via Expedia · **$18.12 due at property**
+**Transportation:** BlaBlaCar Bus at 3:10PM in Chamonix. Need to get to Chamonix before then. Plan to finish hike in Les Houches by 1:30-2PM latest
+Details are in my email. Already paid for. 
 
 - Finish hike at Les Houches · transfer to Annecy (~45 min) · check in at Les Trésoms after 4 PM
 
